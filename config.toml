@@ -62,7 +62,7 @@ enableGitInfo = true
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "eric@doteric.com"
+  email = "eric@kulado.com"
   address = "5442 S 900 E, STE 135, Salt Lake City, UT 84117"
   office_hours = "email for appointment"
   phone = "424 258 5236"
@@ -99,11 +99,11 @@ enableGitInfo = true
 
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-  color_theme = "dark"
+  color_theme = "cupcake"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
-  font = "playfair"
+  font = "default"
 
   # Description for social sharing and search engines. If undefined, author role is used in place.
   description = ""
